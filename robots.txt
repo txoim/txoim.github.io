@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://txoim.github.io/VRt/sitemap.VRt.gz
